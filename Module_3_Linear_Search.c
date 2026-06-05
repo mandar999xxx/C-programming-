@@ -15,10 +15,7 @@ int main() {
 
     // Prompt user for number of elements
     printf("Enter the number of elements: ");
-    if (scanf("%d", &n) != 1 || n < 1 || n > 100) {
-        printf("Error: Please enter a size between 1 and 100.\n");
-        return 1;
-    }
+    scanf("%d", &n);
 
     // Read the array elements
     printf("Enter %d elements:\n", n);
