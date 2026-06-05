@@ -18,8 +18,8 @@ int main() {
 
     // Prompt user for input
     printf("Enter a string: ");
-    scanf("%49s", str1);
-
+    scanf("%49s", str1); // %s → Read string until whitespace  >> 49 → Maximum number of characters to read
+      // Result → Can read at most 49 characters + 1 null terminator = 50 total
     j = 0;
     len = strlen(str1); // Find the length of the input string
 
