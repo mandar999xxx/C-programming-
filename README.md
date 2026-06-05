@@ -4,6 +4,9 @@ Welcome to the **C-programming-** repository! This is a complete, structured col
 
 Each program includes detailed **inline comments, explanation of variables, and algorithmic hints** to help you understand the underlying logic, not just the syntax.
 
+### NOTE 
+"If you want to make it more robust, you can wrap the input statements with error checks - like making sure the size isn't too big or that the user actually enters numbers. But it's totally up to you; you can leave it simple or add the checks."
+
 ---
 
 ## 📂 Repository Organization
