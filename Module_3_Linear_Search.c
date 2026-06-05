@@ -26,10 +26,7 @@ int main() {
 
     // Prompt for key search element
     printf("Enter the element to be searched: ");
-    if (scanf("%d", &key) != 1) {
-        printf("Error: Invalid input.\n");
-        return 1;
-    }
+   scanf("%d", &key) 
 
     // Linear search execution
     for (i = 0; i < n; i++) {
