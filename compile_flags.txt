@@ -1,4 +1,0 @@
--IC:/MinGW/include
--IC:/MinGW/lib/gcc/mingw32/6.3.0/include
--IC:/MinGW/lib/gcc/mingw32/6.3.0/include-fixed
--IC:/MinGW/mingw32/include

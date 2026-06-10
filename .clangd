@@ -1,3 +1,0 @@
-CompileFlags:
-  Add:
-    - --query-driver=C:/MinGW/bin/gcc.exe,C:/MinGW/bin/g++*
